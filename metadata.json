@@ -1,0 +1,6 @@
+{
+  "name": "Vetra Studio — AI Video Upscaler & NLE",
+  "description": "Precision neural video upscaler inspired by Topaz Video AI and Real-ESRGAN with multi-language AI VoiceOver TTS, automatic scene-cut detection, animated titles, multi-language subtitles, and a multi-track NLE timeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
